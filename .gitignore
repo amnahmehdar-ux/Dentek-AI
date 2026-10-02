@@ -1,0 +1,14 @@
+venv/
+backend/venv/
+node_modules/
+frontend/node_modules/
+.env
+backend/.env
+media/
+backend/media/
+*.pth
+*.pt
+*.dll
+*.pyd
+*.sqlite3
+__pycache__/
